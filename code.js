@@ -39,25 +39,56 @@ window.addEventListener("load", function() {
 		map.setAttribute("id", "regions");
 		for (var i = 0; i < regions.length; i++) {
 			var coords = this.Regions[regions[i]].Area,
-			    region = water.appendChild(document.createElementNS("http://www.w3.org/2000/svg", "polygon")),
+			    g = water.appendChild(document.createElementNS("http://www.w3.org/2000/svg", "svg")),
+			    region = g.appendChild(document.createElementNS("http://www.w3.org/2000/svg", "polygon")),
+			    name = g.appendChild(document.createElementNS("http://www.w3.org/2000/svg", "text")),
 			    area = map.appendChild(document.createElement("area")),
-			    coordList = [];
+			    mapCoords = [],
+			    polyCoords = [],
+			    minX = 1000000, minY = 1000000, rWidth = 0, rHeight = 0;
+
 			for (var j = 0; j < coords.length; j++) {
-				if (coords[j][0] > width) {
-					width = coords[j][0];
+				var coord = coords[j];
+				if (coord[0] < minX) {
+					minX = coord[0];
 				}
-				if (coords[j][1] > height) {
-					height = coords[j][1];
+				if (coord[1] < minY) {
+					minY = coord[1];
 				}
-				coordList.push(coords[j].join(","));
 			}
+			for (var j = 0; j < coords.length; j++) {
+				var coord = coords[j];
+				if (coord[0] > width) {
+					width = coord[0];
+				}
+				if (coord[1] > height) {
+					height = coord[1];
+				}
+				mapCoords.push(coords[j].join(","));
+				coord[0] -= minX;
+				coord[1] -= minY;
+				if (coord[0] > rWidth) {
+					rWidth = coord[0];
+				}
+				if (coord[1] > rHeight) {
+					rHeight = coord[1];
+				}
+				polyCoords.push(coords[j].join(","));
+			}
+			g.setAttribute("x", minX);
+			g.setAttribute("y", minY);
 			region.setAttribute("style", "fill: "+this.Regions[regions[i]].Colour+";stroke:purple;stroke-width:1");
-			region.setAttribute("points", coordList.join(" "));
+			region.setAttribute("points", polyCoords.join(" "));
 			area.setAttribute("shape", "polygon");
-			area.setAttribute("coords", coordList.join(","));
+			area.setAttribute("coords", mapCoords.join(","));
 			area.addEventListener("click", function() {
 				alert(1);
 			});
+			name.appendChild(document.createTextNode(this.Regions[regions[i]].Name));
+			name.setAttribute("style", "font-family: Verdana; font-size: 16; stroke: #000; fill: #000;");
+			name.setAttribute("x", rWidth>>1);
+			name.setAttribute("y", rHeight>>1);
+			name.setAttribute("text-anchor", "middle");
 		}
 		width += 100;
 		height += 100;
