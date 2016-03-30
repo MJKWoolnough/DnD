@@ -30,6 +30,9 @@ window.addEventListener("load", function() {
 			document.body.removeChild(document.body.lastChild);
 		}
 	},
+	showRegion = function(region) {
+
+	},
 	showRealm = function() {
 		var width = 0, height = 0,
 		    regions = Object.keys(this.Regions),
@@ -81,9 +84,7 @@ window.addEventListener("load", function() {
 			region.setAttribute("points", polyCoords.join(" "));
 			area.setAttribute("shape", "polygon");
 			area.setAttribute("coords", mapCoords.join(","));
-			area.addEventListener("click", function() {
-				alert(1);
-			});
+			area.addEventListener("click", showRegion.bind(this, regions[i]);
 			name.appendChild(document.createTextNode(this.Regions[regions[i]].Name));
 			name.setAttribute("style", "font-family: Verdana; font-size: 16; stroke: #000; fill: #000;");
 			name.setAttribute("x", rWidth>>1);
