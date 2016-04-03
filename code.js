@@ -84,7 +84,7 @@ window.addEventListener("load", function() {
 			region.setAttribute("points", polyCoords.join(" "));
 			area.setAttribute("shape", "polygon");
 			area.setAttribute("coords", mapCoords.join(","));
-			area.addEventListener("click", showRegion.bind(this, regions[i]);
+			area.addEventListener("click", showRegion.bind(this, regions[i]));
 			name.appendChild(document.createTextNode(this.Regions[regions[i]].Name));
 			name.setAttribute("style", "font-family: Verdana; font-size: 16; stroke: #000; fill: #000;");
 			name.setAttribute("x", rWidth>>1);
