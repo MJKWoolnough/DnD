@@ -121,7 +121,7 @@ Seeing Unknown unsuccessully attempt to cut off the head of the man, Rashaak hel
 
 While Nim removes the pelt of what he has now realised is a Dire-Wolf, Rashaak and Unknown search the room. Rashaak discovers an unusual feature of the room, but cannot do anything with it. Upon inspection, Unknown recognises it as a thief safe and manages to get it open. Inside is a small, shiny, metal box.
 
-Taking the head and the box, Unknown, accomponied by the others, returns to town.
+Taking the head and the box, Unknown, accompanied by the others, returns to town.
 
 Hunters Guild
 =============
@@ -455,9 +455,76 @@ Nim restores life to one of the other men, but the last is too far gone to heal.
 
 The last man is told to leave and never bother them again. He takes his still living friend with him as he leaves.
 
-The team contine to Murkshear
+The team continue to Murkshear.
 
 Murkshear
 =========
 
 The party arrive at Murkshear at night and head straight for the nearest taven, The Pink Jug, and get rooms for the night.
+
+In the morning the party splits up to find out information about Targ Crest-Hammer. Nim talks to the barman, Unknown goes to the Town Hall and Raashak goes to a nearby shop.
+
+Nim learns that the mayor was recently killed in a hunting accident and that there is will soon be candidates announced for the position. Nim heads towards the Town Hall.
+
+Meanwhile, Raashak heads to a nearby shop to try and find out about the Merchant Dwarf, Targ. Raashak learns that Targ is a fairly wealthy merchant and most likely lives in the richer part of town, to the North. Raashak goes to take a look around.
+
+Rogue gets to the Town Hall where she finds a crowd of people outside. She learns that the candidates have just been announced for the new Mayor, one of whom is Targ Crest-Hammer. She also learns that he is currently inside the Town Hall, and that he lives at the North of the Town. She heads north.
+
+Raashak gets to the richer part of town and starts looking for Targ's house. After a little trial-and-error he finds it, claiming to be delievering a package. A human, who appears to be a butler, comes to take the package, but Raashak claims he left it on his cart and will be back soon. Raashak heads south to find the others and runs into Unknown. They exchange information and Unknown heads to Targ's house and Raashak heads to the Town Hall.
+
+Nim looks around the Town Hall and finds a secluded spot and disguises himself. He enters the Town Hall and has a look around. The desk in front of the door is empty and he has a quick look around. He glances over some minutes or a previous meeting. Nim hears talking coming from an adjacent room and goes to investigate. He sees four dwarves and two humans talking. Nim introduces himself as Sylus and asks for Targ. One of the Dwarves says that he is Targ Crest-Hammer. Nim claims he has come from the Lord of Cloahpool to help in in his campaign for Mayor and to take him out to lunch. Targ turns down the offer of lunch and resumes talking to the others. Nim stays and listens.
+
+Rogue, now at Targ's house, has a look around and discovers a secluded secondary entrance to the grounds. It looks like a service entrance. Rogue notes it and returns to the Town Hall.
+
+While Nim is listening to a conversation about the election, Raashak walks in. Nim tries to convince the people around him that the Half-Orc is an assassin here to kill Targ. Raashak pulls out his weapon and shouts Targ's name. Nim uses a spell (Viscious Mockery) to drop Raashak, who plays dead. Guards are called and Raashak is arrested.
+
+Nim convinces Targ that someone is trying to kill him and that the Lord of Cloahpool sent him here to make sure that didn't happen. Targ is unimpressed with the gnome and asked to see proof he was sent by Robert Summerthorne (Lord of Cloahpool). Nim shows him the seal of Cloahpool given to them by Sylis. Nim implies that it might be his opponent in the election who is trying to kill him. Targ looks at the Dwarf on his left and asks him, Bran Ironforge, if he is trying to have him killed. Bran looks insulted that anyone would assume he would hire anyone so incompentant to kill someone.
+
+Nim convinces Targ to go back to his manor for safety. Targ and Bran decide to go back to Targ's manor, and allow Nim to tag along. Unknown follows behind them, stealthily.
+
+Inside, Nim makes mental notes of the layout and asks Targ to question his staff and the 'assassination' attempt. Targ reluctantly agrees, still not really seeing a threat. Nim finds a cook in the kitchin and asks him about food preparation and Targ's schedule. Nim wants to look in the store room, which is locked. He gets the cook to open it up and takes a quick look around. The cook asks what he is doing, and Nim responds that he's making sure that the food isn't poisoned. The cook gets suspicious and takes Nim to Targ to find out what is going on. Targ has had enough at this point and asks Nim to leave.
+
+With Raashak in jail, Nim and Unknown try to come up with a plan to get him out. They try pretending to be lawyers in order to get in to see Raashak, but the guards are having none of it.
+
+As a secondary plan, Nim disguises himself as a little boy and casts Invisibility of Unknown. Unknown sneaks into prison, carefully getting past the door to the cells and picking the lock on Raashak's prison door.
+
+Meanwhile Nim has entered the prison claiming to be a little boy whose brother was arrested. Feeling sorry for him, one of the guards shows him the cells to see if he can find his brother. Unknown sneaks out as Nim and the guard pass them. After not finding his brother, going past Raashaks cell he touches him and casts invisibility on him.
+
+In the main room of the prison, the guards suggest that he should stay here instead of wandering the streets. Nim plays a little tune to distract the guards from Raashak opening the door behind them and from stealing the keys to the storage room. Raashak manages to find his stuff in the storage room and feeds it through a small window into the alley besides the prison.
+
+Raashak manages to sneak out of the prison and retrieve his stuff and Unknown goes into the prison claiming to be 'the little boy's mother and retrieves him.
+
+Outside Raashak and Nim get into a physical fight while planning the heist of Targ's home.
+
+Now getting dark, the party decide now is a good time for the heist. Nim casts invisibilty on Unknown and she heads off. Unknown successfully picks the side entrance and enters the kitchin. She looks around the store room and a small upstairs section which seems to be the butler's quarters. Outside, Nim sneaks in the side gate and 'round to the front of the house to keep watch.
+
+Outside the gate, Raashak rings the bell next to the gate. Raashak tries to convince the butler that opened the door that Targ is in possession of a bag that he needs. The butler, not knowing what the Half-Orc is talking about, tells him to leave and closes the door. Raashak fires a crossbow bolt at the door and goes to hide. Having heard the bolt, the butler uses a magic to contact the guards.
+
+Unknown sneaks back downstairs and towards the entrance hall.
+
+Raashak spots two guards coming to Targ's manor and sees them ring the bell. The butler, not knowing what the Half-Orc is talking about, tells him to leave and closes the door. Raashak fires a crossbow bolt at the door and goes to hide. Having heard the bolt, the butler uses a magic to contact the guards.
+
+Unknown sneaks back downstairs and towards the entrance hall.
+
+Raashak spots two guards coming to Targ's manor and sees them ring the bell. The butler (Raan) opens the gate and lets the guards in to the house. Unknown opens the door to the hall and sees Raan, Targ and the two guards standing in the entrance hall, discussing the attack by the Half-Orc. Raashak fires another bolt at the door. The guards rush out and engage Raashak. Nim is forced to use a Stinking Cloud on the guards to help Raashak get away, which drops his concentration on Unknown's invisibility.
+
+Now visible, but with Targ and Raan distracted watching the fight, Unknown manages to sneak through the entrance hall into the dining room and then to upstairs. She checks out a guest bedroom and heads to the master bedroom.
+
+Nim, meanwhile, having watched Raashak run away, makes himself invisible and enters the side entrance and sneaks to the master bedroom. Nim and Unknown find the bag, as described, in the wardrobe. They exit the bedroom and hear the butler and Targ leave the entrance hall. They manage to sneak out of the house and join up with Raashak and head to The Pink Jug.
+
+On the way, they inspect the bag and discover it to be a Bah of Holding.
+
+In the morning they head back to Huckson.
+
+Huckson
+=======
+
+Upon arriving in Huckson, the team find Unknown's Thief contact and show him the bag, who puts is hand in and retrieves an orb from within. Having successfully passed the initiation test, Unknown, and the party, are taken, via many twists and turns, to thew Thieves Guild.
+
+As they enter, they hear a heated argument between two men and a women, discussing a commission that seems to have failed. At seeing the party and their contact enter the room, the man and women pull out weapons and attack. A long battle ensues, with what turns out to be an Incubus and a Succubus, with Nim being temporarily charmed by the pair and attackign his allies. The team and the two thieves manage to beat the pair.
+
+The team find out that the pair had commissioned a job to steal the Eye of the Raven Queen, which the thieves had done, but upon discovering its power to locate magical (and therefore expensive) items, they decided not to hand it over to them and keep it for their own purposes instead.
+
+The party manage to convince them to hand it over to them to 'Save the World', but Unknown decides to stay with the Guild to train up.
+
+Nim and Raashak leave and head to Cloahpool.
