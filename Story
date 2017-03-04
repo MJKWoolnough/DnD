@@ -12,6 +12,9 @@ Kaashak enters looking for work, directed to the job board. Nim, having been tur
 Job Board
 =========
 
+28th August
+-----------
+
 Three jobs - Kashaak takes rat job, returns to tavern to find location of job and goes there, killing a good 20 rats.
 Nim and Unknown go to a house to repair its roof. While Nim is outside scoping out the job, Unknown enters the house and steals a small wooden box. She leaves without being noticed.
 
@@ -35,6 +38,9 @@ Empty Bucket
 ============
 
 All three are now at the empty bucket and both Nim and Raashak decide to split a single room, Nim sleeping on the floor.
+
+29nd August
+-----------
 
 After a simple breakfast, all three decide to finish the roof together, and get it done in half a day.
 
@@ -64,6 +70,9 @@ Kashaak levels up.
 
 Job Board
 =========
+
+30th August
+-----------
 
 In the morning, the three wake up and Unknown and Nim head to the message board to look for jobs. They see a single job, for collecting the harvest.
 
@@ -105,6 +114,9 @@ Empty Bucket
 After a non-productive day, Unknown settles down to get some quality drinking time seen to and Nim once again sings for his lodgings.
 
 Rashaak arrives and goes straight to his room.
+
+31st August
+-----------
 
 After a quick breakfast the next morning, Unknown slips away from the party to go see her Fence friend, whom she knows is a member of the Thieves Guild.
 
@@ -149,6 +161,9 @@ Nim plays for his lodgings again and after a bring stint of drinking, Unknown go
 
 Nim and Unknown level up.
 
+1st September
+-------------
+
 Upon waking, Unknown finds a note has been left for her. It appears to be from the Thieves Guild, and is inviting her to join.
 
 Roshaak is released and joins his allies at tavern. After a small breakfast, they all leave to go to the Hunter Guild to start the initiation.
@@ -180,10 +195,16 @@ Empty Bucket
 
 The team regroup at the tavern and stay the night. Nim performs well enough to get a free room for the night.
 
+2nd September
+-------------
+
 The next morning the group and Sylis head for Cloahpool. Upon exiting the town, Sylis informs the groups that he would prefer to avoid the roads and keep under cover.
 
 Wilderness
 ==========
+
+3rd September
+-------------
 
 For the next two days the group travel with little difficulty, although they do see what appears to be a dragon fly overhead. It doesn't appear to spot them.
 
@@ -203,6 +224,9 @@ They decide to forgoe sleep and travel throught the night to reach Cloahpool by 
 
 Cloahpool
 =========
+
+4th September
+-------------
 
 Taking Sylis directly to the Lord's keep, Sylis asks them to wait at the Melting Pot, a nearby tavern. Being slightly untrusting of Sylis, Raashak follows him into the Lords keep, but is stopped by guards trying to enter the main chamber.
 
@@ -227,6 +251,9 @@ The team split up, with Raashak heading to a local temple, and Nim and Unknown h
 Both teams find out that there used to be a temple to the Raven Queen in the mountains to the South.
 
 The team meet up again and decide to do a little shopping. They find a wizard running a nearby item shop and ask him to try and scry for the Eye. He does so and tells them that is is being stored in a dark room, a long way to the South East. He sees what he thinks is a man walk passed a corridor outside the room. The team buy a few items and leave to go back to the tavern.
+
+5th September
+-------------
 
 In the morning they pick up the shield and leave to go south.
 
@@ -253,6 +280,9 @@ Reunited, the team decide to continue through the mountains to Irragin and stay 
 Irragin
 =======
 
+6th September
+-------------
+
 Meanwhile, Raashak asks around and finds out that a local family, the Dwarven Moireach's, are a family rumoured to be connected with the Raven Queen. He asks for their where-a-bouts and is directed to an estate a few miles out of town. After a little shopping, he goes to investigate.
 
 Meanwhile, Nim and Unknown wait around to see if anyone will respond to the job notice.
@@ -274,6 +304,9 @@ As noone seem to be interested in a job moving rocks in a temple dedicated to th
 Raashak arrives back in town and find Unknown at the tavern. Together they look around town for Nim, eventually being led to the blacksmiths. Raashak decides to get his longsword silvered. The blacksmith takes it and says he'll be done by the morning.
 
 The party meet up again at the tavern and sleep the night.
+
+7th September
+-------------
 
 In the morning Raashak tells the others of his discoveries at Moireach manor and, after picking up his sword from the blacksmiths, they all head back to it.
 
@@ -316,6 +349,9 @@ Moireach Manor
 
 Having suffered their first defeat, the team are despondent and upon arriving, Moireach offers rooms for them to recover in.
 
+8th September
+-------------
+
 The next morning, as Unknown rests, trying to recover from her near-death experience, Nim and Raashak head to Irragin, Nim to buy a drum and a belt, and Raashak to look for information about the undead. Finding nothing useful, Raashak and Nim head back to Moireach Manor. Along the way, they find some tracks and decide to follow them East.
 
 Wolarb Marsh
@@ -328,11 +364,17 @@ Moireach Manor
 
 Nima and Raashak return to the Manor and talk to Moireach about the temple and the undead. Moireach advises not going back down, but that Holy Water should help with defeating them.
 
+9th September
+-------------
+
 In the morning, while Unknown remains resting, Nim starts praticing a spell he believes will help with the upcoming fight with the undead. Meanwhile, Raashak begins hunting around the manor looking for tracks.
 
 He eventually find some tracks, that look like pawprints - bigger than a wolfs, but smaller than the direwolf's he'd seen before. After a few hours, he manages to track down a Death Dog. A fierce fight ensues and although he wins, Raashak is poisoned.
 
 Raashak returns to the manor to find Nim practicing a spell - they both go inside and Nim explains his plan to both Unknown and Raashak. He plans to cast a Ritual of Silence on the Flaming Skulls and have Raashak get in close to not allow the Flaming Skull to leave the area of influence.
+
+10th September
+--------------
 
 In the morning, Raashak realises that he is still poisoned and that his maximum HP has dropped. He decides to head back to Irragin to get a potion to cure him. When he arrives back Raashak, Nim and Unknown all go into the underground passage and head back towards the temple.
 
@@ -390,6 +432,9 @@ Getting back at late night, the team go straight to bed.
 
 They all level up.
 
+11th September
+--------------
+
 In the morning, they ask Moireach for directions to the nearest city. He hands them a map and points to Huckson, to the East.
 
 In a hurry now, the party decides to cut across Wolarb Marsh to get to Huckson quicker.
@@ -409,6 +454,9 @@ Huckson
 Now in Hukson, they start creating plans for how to find a member of the Thieves Guild. They go to a local tavern and try to get the attention of any members of the Guild by having Unknown use thieves cant in a conversation. It doesn't appear to work and they retire for the evening.
 
 Raashak levels up.
+
+12th September
+--------------
 
 In the morning, the party decide to leave a message on the job board, written with Thieves Cant, with the hidden message Fountain, West Gate, Midnight.
 
@@ -442,6 +490,9 @@ After the party agrees to the initiation test, the man leaves and the team go ba
 
 Nim and Unknown level up.
 
+13th September
+--------------
+
 In the morning, Nim goes to a local shop and spends some of his winnings from the previous day's fights to purchase some healing potions. Afterwards, the team head out the South Gate towards Murkshear.
 
 Road to Murkshear
@@ -461,6 +512,9 @@ Murkshear
 =========
 
 The party arrive at Murkshear at night and head straight for the nearest taven, The Pink Jug, and get rooms for the night.
+
+14th September
+--------------
 
 In the morning the party splits up to find out information about Targ Crest-Hammer. Nim talks to the barman, Unknown goes to the Town Hall and Raashak goes to a nearby shop.
 
@@ -514,6 +568,9 @@ Nim, meanwhile, having watched Raashak run away, makes himself invisible and ent
 
 On the way, they inspect the bag and discover it to be a Bah of Holding.
 
+15th September
+--------------
+
 In the morning they head back to Huckson.
 
 Huckson
@@ -533,6 +590,9 @@ Meanwhile in Cloahpool
 ======================
 
 Another team of adventurers: Kardak, the Dwarven Barbarian; Patrin, the Dragonborn Cleric; and Ander, the Halfling Druid, are given a task by the Lord of Cloahpool to transport an important item to Halderry in Yrenlion. The item they are given is stored in a magically sealed box, perfectly smooth on all faces. They are told that it's not important how long it takes, just that it reaches the destination safe and in secret.
+
+9th September
+--------------
 
 They have easy travellings for a few days, but on the third they run into a herd of Owlbears inside a dense forest. Their first real bout of combat for a while, the team revel in the kills.
 
@@ -556,6 +616,9 @@ The barbarian and the cleric both jam the doorway and attack the Efreeti. The ha
 
 The Efreeti is eventually defeated and, now tired and wounded, the team retreat back to the Silo. They shut the trapdoor and weigh it down with boxes and bags of grain. They fall asleep on the bags.
 
+10th September
+--------------
+
 In the morning they find that the boxes and bags are back in their original positions. Ander looks outside and discovers that the remains of the Helmed Horrors and Flame Skulls have disappeared. The team go and talk to the homesteaders who don't appear to remember them.
 
 After a short discussion, the team send Ander into the Dungeon as a Fire Elemental to talk to the Efreeti, assuming that it has caused some magical effecto to take place. Ander manages to sneak past the Air Elementals an into the room with the Efreeti.
@@ -573,6 +636,9 @@ After a few hours travel, the group run into a group of Gricks, who are swiftly 
 Later, as the sun sets, the group makes camp. Before getting everyone to sleep, Ander hands the villagers paper and writing implements and asks them to write letters to themselves in order to convince them that something is afoot.
 
 Ander takes first watch.
+
+11th September
+--------------
 
 The party wake up, once again, in the storage silo.
 
@@ -616,6 +682,9 @@ In his weak, halfling form, Ander has trouble pushing the door open, but manages
 
 Meanwhile, Kardak is investigating the village houses and find diaries and papers detailing the few weeks since the villagers arrival. One mentions a small conflict between Mara and Vola, but doesn't mention what it was about. He mentions the conflict to Patrin.
 
+12th September
+--------------
+
 The team wakes up in the silo.
 
 It becomes quickly apparant that the last thing that Kardak remembers is setting up camp with the villagers - he appears to not remember the previous day at all.
@@ -627,6 +696,9 @@ The team decide to try and head west on their own, thinking that without the vil
 About 100 meters out, at the edge of the clearing the village is situated in, the party notice some cart tracks, the same cart tracks they made two days ago. They deduce that the reset doesn't affect the land outside of a certain radius.
 
 It takes all day, but they manage to travel to their campsite from two days previous, which is still there. They carry on travelling all through the night.
+
+13th September
+--------------
 
 The teams wakes up in the silo. This time, it is Ander and Patrin that appear to have forgotton previous events, with Patrin not remembering the previous days travel and Ander not remembering the previous two. Kardak struggles to get them caught up.
 
@@ -666,10 +738,16 @@ Making their way back through the dungeon, the team come to the villagers and on
 
 As before, they travel west and at night, make camp.
 
+14th September
+--------------
+
 This time, the team and the villagers all wake up at their make-shift campsite in the woods. The, now larger, party continues west into Yrenlion, towards Halderry.
 
 Ilyandorei
 ==========
+
+9th September
+-------------
 
 Stor, the Human Barbarian, Lex, the Halfling Fighter and Lia, the Elven Bard are travelling on a coach from Ruslal, in the north of Ilyandorei to Osla, in the Desert to the South. On the Coach with them is Mialee, an Elven Bard and her Half-Elf Daughter Thia. The coach is being driven by Adrick, a Dwarf.
 
@@ -682,6 +760,9 @@ Lia suggests that Mialee and Thia sleep on the couches in the coach, and Lex say
 Stor takes first watch and gets mesmerised by the fire, not really seeing anything. Luckily nothing attacks.
 
 Lia takes second watch and climbs a tree for a better vantage point. She sees some animals drawn by the embers and smoke of the fire, but none come close.
+
+10th September
+--------------
 
 In the morning Adrick awakes first and is surprised to find Lia nowhere in sight. After quietly calling for her Lia drops out of the tree and makes herself known. After a short conversation, Adrick goes to check on the horses.
 
@@ -732,6 +813,9 @@ During the ride to Osla, Mialee becomes quite withdrawn and stops talking much.
 Osla
 ====
 
+12th September
+--------------
+
 After a day an a halfs further travel they reach Osla and get to Mialee's house and find Ikore, who is currently tutoring a student in Wizardry sees Mialee enter and she bursts into tears. It's left to the party to explain what happened and deliver Jamah's message.
 
 Ikore tells the party that he intends to complete the spell that Jamah wants, but that he will use it to find his daughter and rescue her.
@@ -748,6 +832,9 @@ The coach continues of for a few hours before stopping for the night. During the
 
 Kafenaus
 ========
+
+13th September
+--------------
 
 The next day at around noon, the coach arrives in Kafenaus and they are directed to the Wizard's College.
 
@@ -811,6 +898,9 @@ Lia gives Adrick the book and asks him to deliver it to Ikore. Before leaving, A
 
 The party sleep the night at the college and level up.
 
+14th September
+--------------
+
 In the morning they all wake up and, one-by-one, make their way downstairs for breakfast. When finished they go to see Head Wizard Bewyn and ask to be  teleported to the outpost. Bewyn instructs another wizard to take them to the departure room and to cast the spell.
 
 The party is led into a smallish room, the floor of which is covered in arcane glyphs, arranged in a circle. The wizard tells the group to get inside the circle. They do and the wizard begins to perform the spell. A white flash of light explodes infront of the party and as their eyes adjust they can now see that they are in a different place.
@@ -866,6 +956,9 @@ Ildra gets to the house, this mansion in the woods, and runs up its wooden steps
 Ildra now finds herself standing in a pool of some green liquid. She feels her legs tingling and she leans down and reaches out to touch the pool. Her hand just flows through it as though it were mist, all she feels is a slight tingling sensation.
 
 As she stands back up, she can see herself again, this time on a bed, back in the inn.
+
+15th September
+--------------
 
 Ildra opens her eyes and see no-one standing in front of her, all she see is the room of the inn and Stor laying beside her. Ildra leaves the room and goes looking for Lia.
 
@@ -999,6 +1092,9 @@ Lia does a small performance on the tavern's stage area to get a small reduction
 
 Stor, Lex and Zoe get quite drunk and Antanus passes out from drink and has to be carried to his bed by Stor. The rest eventually retire to their rooms.
 
+16th September
+--------------
+
 In the morning, Lex wakes up still feeling drunk and finished off a bottle of wine he purchased.
 
 Downstairs, the party gathers for breakfast and to discuss the plans for the day. Lex gives a small child a message to take to the castle to create an appointment to see Lord Summerthorn.
@@ -1063,6 +1159,9 @@ Ivgur uses the Eye and gives them directions for the nearest key to recover.
 
 The party return to the Inn, discuss plans and sleep.
 
+17th September
+--------------
+
 In the morning, the party discuss how they're going to get to the nearest Key in what looks like a small village to the west, just past the Light Peak Mountains. They decide to go with the simplest method, which is just to walk and to head through the mountains; which, while it may be more dangerous, it would be far quicker than trying to go 'round.
 
 The party gathers up their gear and heads out of the south gate of Cloahpool and heads off of the road in to the grassy plains to the west. With Stor leading the way, the take a little over an hour to cross the plains and reach the edge of the forest that sits on the border of Taldoran and Yrenlion.
@@ -1092,6 +1191,9 @@ The party continue West and come to a clearing. Lia spots some creatures in the 
 The party continue travelling west for a few hours until night-fall.
 
 Everyone levels up.
+
+18th September
+--------------
 
 In the morning, the party continue on and after a few hours travel find a chest hidden among the trees. Ildra goes up to it and Lex follows. It's a Mimic and they quickly dispatch it.
 
